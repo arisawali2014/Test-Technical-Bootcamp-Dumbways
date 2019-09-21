@@ -1,4 +1,4 @@
-### Test1-Technical-Bootcamp-Dumbways
+### Test-Technical-Bootcamp-Dumbways
 Ini adalah jawaban untuk Technical Bootcamp DumbWays Batch 12 Kloter 5.
 
 Disini saya menggunakan bahasa pemrograman Python
